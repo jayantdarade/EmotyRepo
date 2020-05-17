@@ -1,0 +1,1 @@
+git merge using commands from local machine
